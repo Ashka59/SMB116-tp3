@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMB116_TP3</string>
+    <string name="add_ue">Ajouter une UE</string>
+    <string name="saisie_hint">Tapez une UE</string>
+    <string name="remove_UE">Enlever l\' UE?</string>
+    <string name="remove_validation">Cliquez sur yes pour enlever, ou sur no pour annuler.</string>
+</resources>
